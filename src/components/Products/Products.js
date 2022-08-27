@@ -10,14 +10,14 @@ const products = [
     description: "Running shoes",
     price: "$5",
     image:
-      "https://www.frandroid.com/marques/apple/842094_test-macbook-air-m1-arm",
+      "https://www.loding.fr/5340-home_default_2x/chaussures-homme-derby-veau-velours.jpg",
   },
   {
     id: 2,
     name: "Macbook",
     description: "Apple macbook",
     price: "$10",
-    image: "https://www.loding.fr/fr/13-chaussures",
+    image: "https://www.01net.com/app/uploads/2021/09/3033-mea.jpg",
   },
 ];
 
